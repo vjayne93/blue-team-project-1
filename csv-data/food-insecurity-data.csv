@@ -1,7 +1,4 @@
-﻿"Food Scarcity, Household Pulse Survey",,,,,,,
-Adults in households where there was either sometimes or often not enough to eat in the last 7 days,,,,,,,
-,,Total Food Scarcity,,Percent Food Scarcity,,,
-Area,Week,Number,Margin of Error +/-,Percent,Percent Margin of Error +/-,Measure Universe,Total Population age 18+
+Area,Week,Number - Total Food Scarcity,Margin of Error +/-,Percent - Percent Food Scarcity,Percent Margin of Error +/-,Measure Universe,Total Population age 18+
 United States,"63 - October 18 - 30, 2023","27,977,139","771,714",12.5,0.4,"223,774,703","254,966,752"
 United States,"62 - September 20 - October 2, 2023","27,610,114","854,321",12.4,0.4,"222,835,559","254,966,752"
 United States,"61 - August 23 - September 4, 2023","26,233,276","858,850",12.1,0.4,"217,141,781","254,966,752"
@@ -65,7 +62,6 @@ United States,"4 - May 21-26, 2020","24,048,972","1,237,967",9.9,0.5,"242,572,86
 United States,"3 - May 14-19, 2020","26,160,379","1,167,858",10.7,0.5,"243,623,863","249,170,916"
 United States,"2 - May 7-12, 2020","25,893,667","1,440,230",10.6,0.6,"243,779,595","249,170,916"
 United States,"1 - April 23-May 5, 2020","24,069,654","835,732",9.8,0.3,"244,934,954","249,170,916"
- -> States,,--,--,--,--,--,--
 Alabama,"63 - October 18 - 30, 2023","481,841","77,057",14.6,2.4,"3,300,158","3,852,301"
 Alaska,"63 - October 18 - 30, 2023","71,537","14,458",15.3,3,"466,044","530,263"
 Arizona,"63 - October 18 - 30, 2023","738,126","105,012",14.4,2,"5,110,625","5,723,779"
@@ -3279,4 +3275,3 @@ Washington,"1 - April 23-May 5, 2020","394,685","91,787",6.8,1.6,"5,817,122","5,
 West Virginia,"1 - April 23-May 5, 2020","103,872","28,126",7.6,2.1,"1,358,217","1,379,576"
 Wisconsin,"1 - April 23-May 5, 2020","334,749","114,324",7.7,2.6,"4,356,177","4,438,719"
 Wyoming,"1 - April 23-May 5, 2020","23,645","9,879",5.5,2.3,"427,670","433,400"
-"Source: U.S. Census Bureau, Household Pulse Survey",,,,,,,

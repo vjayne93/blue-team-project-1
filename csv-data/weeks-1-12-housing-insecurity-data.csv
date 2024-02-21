@@ -1,4 +1,4 @@
-﻿Area,Week,Number,Margin of Error +/-,Percent,Percent Margin of Error +/-,Measure Universe,Total Population age 18+
+Area,Week,Number - Total Housing Insecurity (Missed Payment or Low Confidence),Margin of Error +/-,Percent - Percent Housing Insecurity (Missed Payment or Low Confidence),Percent Margin of Error +/-,Measure Universe,Total Population age 18+
 United States,"12 - July 16-21, 2020",44667345,1117654,26.5,0.7,168758739,"249,170,916"
 United States,"11 - July 9-14, 2020",45191150,1316425,26.4,0.7,171015861,"249,170,916"
 United States,"10 - July 2-7, 2020",43373346,1047257,25.3,0.6,171673536,"249,170,916"
@@ -11,6 +11,7 @@ United States,"4 - May 21-26, 2020",38075649,1151355,23.6,0.6,161643468,"249,170
 United States,"3 - May 14-19, 2020",42113128,1475175,25.4,0.8,165892270,"249,170,916"
 United States,"2 - May 7-12, 2020",43182492,1894276,24.7,1,174944737,"249,170,916"
 United States,"1 - April 23-May 5, 2020",42315164,1101743,24.6,0.6,172345047,"249,170,916"
+ -> States,,,,,,,--
 Alabama,"12 - July 16-21, 2020",763487,116251,33.3,5,2292094,"3,717,378"
 Alaska,"12 - July 16-21, 2020",79895,17916,21.7,4.6,368019,"524,925"
 Arizona,"12 - July 16-21, 2020",959889,163954,25.1,3.8,3824890,"5,597,268"
@@ -623,6 +624,7 @@ Washington,"1 - April 23-May 5, 2020",685388,96799,16,2.2,4274132,"5,890,357"
 West Virginia,"1 - April 23-May 5, 2020",157125,38563,21.8,4.9,722387,"1,379,576"
 Wisconsin,"1 - April 23-May 5, 2020",456846,114785,15.2,3.7,3010886,"4,438,719"
 Wyoming,"1 - April 23-May 5, 2020",63905,13274,21.7,4.6,294899,"433,400"
+ -> Metro Areas,,,,,,,--
 "Atlanta-Sandy Springs-Alpharetta, GA Metro Area","12 - July 16-21, 2020",905643,177010,26.5,4.3,3417785,"4,931,998"
 "Boston-Cambridge-Newton, MA-NH Metro Area","12 - July 16-21, 2020",484930,106597,17.8,3.6,2717038,"3,694,650"
 "Chicago-Naperville-Elgin, IL-IN-WI Metro Area","12 - July 16-21, 2020",1338510,231238,27.5,4.1,4859628,"6,884,718"
