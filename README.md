@@ -21,11 +21,15 @@ By 397% in # of deaths per 100k people caused by other select causes
 By 269% in # of deaths per 100k people caused by respiratory diseases
 By 29% in average income
 By 22% in total per capita public school funding
+By 16% in Student Loan amounts
 
 Low states also have higher percentages of the population enrolled in Medicare, higher percentages insured by their employers, and lower percentages enrolled in Medicaid or uninsured.
 High states had twice the rate of high school drop outs and 41% fewer college graduates per capita. 
-[add in student debt figures]
 
 
 **Conclusion:**
-[Add piece about proper funding for programs to address these concerns and tie in Maslow's Hierarchy of Needs]
+Maslow's Hierarchy of Needs constitutes a psychological motivational theory presenting a structured model of five fundamental human needs essential for achieving a sense of fulfillment in life. Often visualized as a 
+pyramid, the initial two tiers of this model encompass basic physiological requirements like food, water, and shelter, along with safety and security needs such as health, employment, and property. Our examination 
+primarily focuses on these foundational tiers, establishing a parallel with the theory that individuals experiencing fulfillment in their basic needs are prone to lower levels of anxiety and depression. Moreover, we 
+deduce a clear correlation, asserting that states investing more in necessities-oriented initiatives such as public school funding, health insurance subsidies, and food programs for the underprivileged can contribute to 
+heightened citizen satisfaction and decreased instances of anxiety and depression.
