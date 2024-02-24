@@ -3,7 +3,7 @@ This is the repository for our University of Pennsylvania Data Science Bootcamp,
 
 Jupyter Notebook with final presentation: Blue Team Project.ipynb. CSV files with data for analysis: inside csv-data folder
 
-List of sources for our data include the United States Census Bureau, the Household Pulse Survey, CDC (Weekly Counts of Death by Jurisdiction and Select Causes of Death) Data, CDC (VSRR Provisional Drug Overdose Death Counts) Data, [add rest of sources here]
+List of sources for our data include the United States Census Bureau, the Household Pulse Survey, CDC (Weekly Counts of Death by Jurisdiction and Select Causes of Death) Data, CDC (VSRR Provisional Drug Overdose Death Counts) Data, US Department of Health and Human Services, [add rest of sources here]
 
 The purpose of this analysis is to examine and analyze the root causes of individuals' feelings of anxiety and depression from 2020 to 2023. We hypothesized that the states with the lowest reports of anxiety and depression
 (hereafter, referred to as 'Low') would have a more favorable quality of life as measured by data on food insecurity, housing insecurity, health care, excess deaths, wages and per capita income, education spending,
