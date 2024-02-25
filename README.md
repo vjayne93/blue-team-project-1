@@ -3,7 +3,8 @@ This is the repository for our University of Pennsylvania Data Science Bootcamp,
 
 Jupyter Notebook with final presentation: Blue Team Project.ipynb. CSV files with data for analysis: inside csv-data folder
 
-List of sources for our data include the United States Census Bureau, the Household Pulse Survey, CDC (Weekly Counts of Death by Jurisdiction and Select Causes of Death) Data, CDC (VSRR Provisional Drug Overdose Death Counts) Data, US Department of Health and Human Services, [add rest of sources here]
+List of sources for our data include the United States Census Bureau, the Household Pulse Survey, CDC (Weekly Counts of Death by Jurisdiction and Select Causes of Death) Data, CDC (VSRR Provisional Drug Overdose Death Counts) Data, and US Department of Health and Human 
+Services.
 
 The purpose of this analysis is to examine and analyze the root causes of individuals' feelings of anxiety and depression from 2020 to 2023. We hypothesized that the states with the lowest reports of anxiety and depression
 (hereafter, referred to as 'Low') would have a more favorable quality of life as measured by data on food insecurity, housing insecurity, health care, excess deaths, wages and per capita income, education spending,
@@ -28,8 +29,13 @@ High states had twice the rate of high school drop outs and 41% fewer college gr
 
 
 **Conclusion:**
-Maslow's Hierarchy of Needs constitutes a psychological motivational theory presenting a structured model of five fundamental human needs essential for achieving a sense of fulfillment in life. Often visualized as a 
-pyramid, the initial two tiers of this model encompass basic physiological requirements like food, water, and shelter, along with safety and security needs such as health, employment, and property. Our examination 
-primarily focuses on these foundational tiers, establishing a parallel with the theory that individuals experiencing fulfillment in their basic needs are prone to lower levels of anxiety and depression. Moreover, we 
-deduce a clear correlation, asserting that states investing more in necessities-oriented initiatives such as public school funding, health insurance subsidies, and food programs for the underprivileged can contribute to 
-heightened citizen satisfaction and decreased instances of anxiety and depression.
+Maslow's Hierarchy of Needs serves as a psychological motivational theory that delineates a structured model comprising five fundamental human needs crucial for attaining a sense of fulfillment in life. Depicted often as a pyramid, the initial two tiers of this model
+encompass basic physiological necessities such as food, water, and shelter, alongside safety and security needs like health, employment, and property. Our exploration centers primarily on these foundational tiers, drawing parallels with the theory that individuals 
+experiencing fulfillment in these basic needs are inclined towards lower levels of anxiety and depression.
+
+Furthermore, we discern a distinct correlation, affirming that states prioritizing necessities-oriented initiatives, such as increased public school funding, health insurance subsidies, and food programs for the underprivileged, can contribute significantly to 
+heightened citizen satisfaction and reduced instances of anxiety and depression. Education emerges as a noteworthy external factor influencing a person's overall mental health. The data underscores that states with lower anxiety and depression exhibit higher educational 
+attainment and lower average debt per borrower.
+
+States with lower anxiety and depression levels boast 70% of the population with higher educational attainment, in contrast to 57% in states grappling with higher anxiety and depression. Notably, higher education is often linked with larger student loan amounts, which 
+can become a source of chronic worry and stress. In states experiencing higher anxiety and depression, the student debt levels are approximately 10% higher compared to states with lower anxiety and depression.
