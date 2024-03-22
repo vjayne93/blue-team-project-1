@@ -1,4 +1,5 @@
-# blue-team-project-1
+# Correlating Mental Health in the United States during 2020-2023 with Various Quality of Life Factors
+
 This is the repository for our University of Pennsylvania Data Science Bootcamp, Blue Team. The members include Victoria Martin-Nelson, Michael Pointek, Katie Ballinger, Luis Herran, and Victoria Ro. 
 
 Jupyter Notebook with final presentation: Blue Team Project.ipynb. CSV files with data for analysis: inside csv-data folder
